@@ -36,7 +36,7 @@ a|video::s5bsNn-AzMY[youtube]
 image::images/youtube.PNG[] 
 https://www.youtube.com/watch?v=s5bsNn-AzMY&list=PLTbQvx84FrASoQ3S-Ci8OhHzLyMuLy0Wl&index=4[video]  a|
 image::images/cfp.PNG[cfp,25,35] 
-https://cfp.devoxx.fr/2019/talk/GXQ-8625/Deep-learning_et_reconnaissance_d%E2%80%99image:_des_viennoiseries_dans_mon_JS_%3F [description du talk]
+https://cfp.devoxx.fr/2019/talk/GXQ-8625/Deep-learning_et_reconnaissance_d%E2%80%99image:_des_viennoiseries_dans_mon_JS_%3F[description du talk]
 
 image::images/github.PNG[] 
 https://github.com/PPACI/Devoxx19-TensorflowJS[repo github]
@@ -213,6 +213,27 @@ image::images/cfp.PNG[cfp,25,35]
 https://cfp.devoxx.fr/2019/talk/UDB-2717/Le_Deep_Learning_peut_sauver_votre_entreprise_![description du talk]
 
 |=======================
+
+
+
+== Stand - Rock-Paper-Scissors-Spock-Lizard Hand Game Robot
+
+
+|=======================
+a|  a|
+image::images/cfp.PNG[cfp,25,35] 
+https://www.hackster.io/bonbonking/rock-paper-scissors-spock-lizard-hand-game-robot-663302[description du talk]
+
+image::images/github.PNG[] 
+https://github.com/jinqian/at-rock-paper-scissors-lizard-spock[repo github]
+
+image::images/slide.PNG[] 
+https://speakerdeck.com/jinqian/play-rock-paper-scissors-spock-lizard-with-your-android-things[slides]
+
+|=======================
+
+
+
 
 
 ////
