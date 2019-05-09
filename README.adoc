@@ -2,9 +2,14 @@
 
 == Deep Learning pour le traitement du Langage avec Pytorch
 
-Type : Université
+Type : _Université_
+
 CFP : https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch
+
 Youtube : https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9
+video::zh3y7BMjlS4[youtube]
+
 GitHub : https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019
+
 slides : https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121
 
