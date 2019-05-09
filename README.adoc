@@ -9,22 +9,17 @@ CFP : https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_
 Youtube : https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9
 
 
-video::zh3y7BMjlS4[youtube]
+video::zh3y7BMjlS4[youtube,width=560,height=315]
 
-
-++++
-{% include youtubePlayer.html id=zh3y7BMjlS4 %}
-++++
-
-
-++++
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zh3y7BMjlS4" frameborder="0" allowfullscreen></iframe>
-++++
+////
+////++++
+////<iframe width="560" height="315" src="https://www.youtube.com/embed/zh3y7BMjlS4" frameborder="0" allowfullscreen></iframe>
+////++++
+////
 
 
 
-
-GitHub : https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019
+icon:github[] https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019
 
 slides : https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121
 
