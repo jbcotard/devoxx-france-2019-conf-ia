@@ -15,7 +15,7 @@ image::images/devoxx.png[float="right"]
 
 [options="footer"]
 |=======================
-a|video::zh3y7BMjlS4[youtube] | https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[info talk]
+a|video::zh3y7BMjlS4[youtube] | https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[description du talk]
 
 icon:youtube-square[2x] https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9  
 
@@ -24,9 +24,6 @@ icon:github[2x] https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%2
 icon:slideshare[2x] https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121
 |=======================
 
-icon:slideshare[2x] test
-
-video::zh3y7BMjlS4[youtube]
 
 
 
