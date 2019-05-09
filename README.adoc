@@ -15,7 +15,7 @@ image::images/devoxx.png[float="right"]
 
 [options="footer"]
 |=======================
-|video::zh3y7BMjlS4[youtube] | https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[info talk]
+a|video::zh3y7BMjlS4[youtube] | https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[info talk]
 
 icon:youtube-square[2x] https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9  
 
