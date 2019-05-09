@@ -13,14 +13,18 @@ image::images/devoxx.png[float="right"]
 
 == Université - Deep Learning pour le traitement du Langage avec Pytorch
 
-[options="footer"]
 |=======================
-a|video::zh3y7BMjlS4[youtube] image::images/youtube.PNG[link=https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9]  |
+a|video::zh3y7BMjlS4[youtube] 
+image::images/youtube.PNG[] 
+https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9[watch zh3y7BMjlS4]  a|
+image::images/cfp.PNG[] 
 https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[description du talk - https://cfp.devoxx.fr/2019/talk/MWS-2869]
 
-image::images/github.PNG[] https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019
+image::images/github.PNG[] 
+https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019[github.com/sebastien-collet]
 
-image::images/slide.PNG[] https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121
+image::images/slide.PNG[] 
+https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121[docs.google.com/presentation]
 
 |=======================
 
