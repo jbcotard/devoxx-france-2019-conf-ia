@@ -92,7 +92,7 @@ https://cfp.devoxx.fr/2019/talk/LQO-4838/Introduction_to_Face_Processing_with_Co
 
 image::images/slide.PNG[] 
 https://www.gabrielbianconi.com/articles/introduction-to-face-processing-with-computer-vision/[slides] a| 
-image::images/face-computation.jpg
+image::images/face-computation.jpg[]
 
 |=======================
 
@@ -199,7 +199,7 @@ https://danvy.tv/mixed-reality-artificial-intelligence-devoxx-2019/[repo github]
 
 image::images/slide.PNG[] 
 https://www.slideshare.net/danvy/mixed-reality-artificial-intelligence-with-hololens-at-devoxx-2019/[slides] a| 
-image::images/ia-ar.jpg
+image::images/ia-ar.jpg[]
 
 |=======================
 
@@ -231,7 +231,7 @@ https://github.com/jinqian/at-rock-paper-scissors-lizard-spock[repo github]
 
 image::images/slide.PNG[] 
 https://speakerdeck.com/jinqian/play-rock-paper-scissors-spock-lizard-with-your-android-things[slides] a| 
-image::images/pierre-feuille-ciseau.jpg
+image::images/pierre-feuille-ciseau.jpg[]
 
 |=======================
 
