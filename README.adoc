@@ -16,20 +16,69 @@ image::images/devoxx.png[float="right"]
 |=======================
 a|video::zh3y7BMjlS4[youtube] 
 image::images/youtube.PNG[] 
-https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9[watch zh3y7BMjlS4]  a|
+https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9[video]  a|
 image::images/cfp.PNG[] 
-https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[description du talk - https://cfp.devoxx.fr/2019/talk/MWS-2869]
+https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_du_Langage_avec_Pytorch[description du talk - https://cfp.devoxx.fr/2019/talk/]
 
 image::images/github.PNG[] 
-https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019[github.com/sebastien-collet]
+https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019[repo github]
 
 image::images/slide.PNG[] 
-https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121[docs.google.com/presentation]
+https://docs.google.com/presentation/d/11IVhfjzB9uSnTxpJ5ot0G_OXjkK13wri8AXEg5PQU8U/edit#slide=id.g57eac4a3b9_2_121[slides]
+
+|=======================
+
+
+== Tools-in-Action - Deep-learning et reconnaissance d’image: des viennoiseries dans mon JS ?
+
+|=======================
+a|video::s5bsNn-AzMY[youtube] 
+image::images/youtube.PNG[] 
+https://www.youtube.com/watch?v=s5bsNn-AzMY&list=PLTbQvx84FrASoQ3S-Ci8OhHzLyMuLy0Wl&index=4[video]  a|
+image::images/cfp.PNG[] 
+https://cfp.devoxx.fr/2019/talk/GXQ-8625/Deep-learning_et_reconnaissance_d%E2%80%99image:_des_viennoiseries_dans_mon_JS_%3F [description du talk - https://cfp.devoxx.fr/2019/talk/]
+
+image::images/github.PNG[] 
+https://github.com/PPACI/Devoxx19-TensorflowJS[repo github]
+
+image::images/slide.PNG[] 
+https://www.slideshare.net/pierrepaci/devoxx-19-du-deeplearning-dans-mon-js[slides]
 
 |=======================
 
 
 
+== Tools-in-Action - Deep Learning sur la JVM : DL4J
+
+|=======================
+a|video::QfnCcPcZogI[youtube] 
+image::images/youtube.PNG[] 
+https://www.youtube.com/watch?v=QfnCcPcZogI&list=PLTbQvx84FrASoQ3S-Ci8OhHzLyMuLy0Wl&index=14[video]  a|
+image::images/cfp.PNG[] 
+https://cfp.devoxx.fr/2019/talk/OCB-5151/Deep_Learning_sur_la_JVM_:_DL4J[description du talk - https://cfp.devoxx.fr/2019/talk/]
+
+image::images/github.PNG[] 
+https://github.com/arnauddelaunay/deep-learning-with-dl4j[repo github]
+
+
+|=======================
+
+== Tools-in-Action - 
+
+|=======================
+a|video::s5bsNn-AzMY[youtube] 
+image::images/youtube.PNG[] 
+https://www.youtube.com/watch?v=s5bsNn-AzMY&list=PLTbQvx84FrASoQ3S-Ci8OhHzLyMuLy0Wl&index=4[video]  a|
+image::images/cfp.PNG[] 
+https://cfp.devoxx.fr/2019/talk/GXQ-8625/Deep-learning_et_reconnaissance_d%E2%80%99image:_des_viennoiseries_dans_mon_JS_%3F[description du talk - https://cfp.devoxx.fr/2019/talk/]
+
+image::images/github.PNG[] 
+https://github.com/PPACI/Devoxx19-TensorflowJS[repo github]
+
+image::images/slide.PNG[] 
+https://www.slideshare.net/pierrepaci/devoxx-19-du-deeplearning-dans-mon-js[slides]
+
+|=======================
 
 ////
 ////++++
