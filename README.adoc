@@ -8,7 +8,9 @@ CFP : https://cfp.devoxx.fr/2019/talk/MWS-2869/Deep_Learning_pour_le_traitement_
 
 Youtube : https://www.youtube.com/watch?v=zh3y7BMjlS4&list=PLTbQvx84FrASreUHVwlEk5AUGozY5g2tn&index=9
 
+
 video::zh3y7BMjlS4[youtube]
+
 
 GitHub : https://github.com/sebastien-collet/talks/tree/master/DevoxxFR%20-%2017-04-2019
 
