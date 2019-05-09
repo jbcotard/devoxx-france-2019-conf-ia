@@ -77,6 +77,25 @@ https://fr.slideshare.net/AlexiaAudevart/tensorflow-v2[slides]
 
 |=======================
 
+
+
+
+
+== Conference - Introduction to Face Processing with Computer Vision
+
+|=======================
+a|video::JVfE2rbo0ZY[youtube] 
+image::images/youtube.PNG[] 
+https://www.youtube.com/watch?v=JVfE2rbo0ZY&list=PLTbQvx84FrAQq7IvYawPgISFBjQqJUA5O[video]  a|
+image::images/cfp.PNG[cfp,25,35] 
+https://cfp.devoxx.fr/2019/talk/LQO-4838/Introduction_to_Face_Processing_with_Computer_Vision[description du talk]
+
+image::images/slide.PNG[] 
+https://www.gabrielbianconi.com/articles/introduction-to-face-processing-with-computer-vision/[slides]
+
+|=======================
+
+
 ////
 ////++++
 ////<iframe width="560" height="315" src="https://www.youtube.com/embed/zh3y7BMjlS4" frameborder="0" allowfullscreen></iframe>
