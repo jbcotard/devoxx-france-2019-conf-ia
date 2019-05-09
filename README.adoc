@@ -58,8 +58,8 @@ image::images/cfp.PNG[cfp,25,35]
 https://cfp.devoxx.fr/2019/talk/OCB-5151/Deep_Learning_sur_la_JVM_:_DL4J[description du talk]
 
 image::images/github.PNG[] 
-https://github.com/arnauddelaunay/deep-learning-with-dl4j[repo github]
-
+https://github.com/arnauddelaunay/deep-learning-with-dl4j[repo github] a| 
+image::images/dl4j-demo.gif[]
 
 |=======================
 
@@ -91,7 +91,8 @@ image::images/cfp.PNG[cfp,25,35]
 https://cfp.devoxx.fr/2019/talk/LQO-4838/Introduction_to_Face_Processing_with_Computer_Vision[description du talk]
 
 image::images/slide.PNG[] 
-https://www.gabrielbianconi.com/articles/introduction-to-face-processing-with-computer-vision/[slides]
+https://www.gabrielbianconi.com/articles/introduction-to-face-processing-with-computer-vision/[slides] a| 
+image::images/face-computation.jpg
 
 |=======================
 
@@ -197,7 +198,8 @@ image::images/github.PNG[]
 https://danvy.tv/mixed-reality-artificial-intelligence-devoxx-2019/[repo github]
 
 image::images/slide.PNG[] 
-https://www.slideshare.net/danvy/mixed-reality-artificial-intelligence-with-hololens-at-devoxx-2019/[slides]
+https://www.slideshare.net/danvy/mixed-reality-artificial-intelligence-with-hololens-at-devoxx-2019/[slides] a| 
+image::images/ia-ar.jpg
 
 |=======================
 
@@ -228,7 +230,8 @@ image::images/github.PNG[]
 https://github.com/jinqian/at-rock-paper-scissors-lizard-spock[repo github]
 
 image::images/slide.PNG[] 
-https://speakerdeck.com/jinqian/play-rock-paper-scissors-spock-lizard-with-your-android-things[slides]
+https://speakerdeck.com/jinqian/play-rock-paper-scissors-spock-lizard-with-your-android-things[slides] a| 
+image::images/pierre-feuille-ciseau.jpg
 
 |=======================
 
