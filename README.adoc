@@ -235,14 +235,3 @@ https://speakerdeck.com/jinqian/play-rock-paper-scissors-spock-lizard-with-your-
 
 
 
-
-////
-////++++
-////<iframe width="560" height="315" src="https://www.youtube.com/embed/zh3y7BMjlS4" frameborder="0" allowfullscreen></iframe>
-////++++
-////
-
-
-
-
-
